@@ -1,4 +1,4 @@
-![alt text](./luis-top.svg)
+![alt text](./luis-top.png)
 
 # 💫 About Me:
 I'm a Computer Science student and an aspiring Software Engineer. I have professional experience in hardware assembly and maintenance, where I developed a keen eye for troubleshooting and system optimization.<br><br>I have dedicated my recent years to intensive study and practical application of software development concepts. I've completed comprehensive coursework in Algorithms and Data Structures, mastering the fundamentals across multiple languages like C, C++, Python, and Java. I have also earned certifications from Oracle in Java Foundations, solidifying my grasp of Object-Oriented Programming.<br><br>My background in hardware gives me a unique perspective on the intersection of physical systems and software performance. I'm used to diagnosing complex issues, managing client expectations, and delivering reliable technical solutions.<br><br>In the last two years, I've focused on these technologies: Java, Python, SQL, Algorithms, Git, Data Analysis, and Hardware Architecture.
@@ -9,4 +9,4 @@ I'm a Computer Science student and an aspiring Software Engineer. I have profess
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisenunes) 
 
-![alt text](./luis-bottom.svg)
+![alt text](./luis-bottom.png)
