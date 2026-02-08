@@ -1,12 +1,12 @@
+![alt text](./luis-top.svg)
+
 # 💫 About Me:
-I'm a Computer Science student and an aspiring Software Engineer. I have professional experience in hardware assembly and maintenance, where I developed a keen eye for troubleshooting and system optimization.<br><br>I have dedicated my recent years to intensive study and practical application of software development concepts. I've completed comprehensive coursework in Algorithms and Data Structures, mastering the fundamentals across multiple languages like C, C++, Python, and Java. I have also earned certifications from Oracle in Java Foundations, solidifying my grasp of Object-Oriented Programming.<br><br>My background in hardware gives me a unique perspective on the intersection of physical systems and software performance. I'm used to diagnosing complex issues, managing client expectations, and delivering reliable technical solutions.<br><br>In the last two years, I've focused on these technologies: Java, Python, C++, SQL, Algorithms, Git, Data Analysis, and Hardware Architecture.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisenunes) 
+I'm a Computer Science student and an aspiring Software Engineer. I have professional experience in hardware assembly and maintenance, where I developed a keen eye for troubleshooting and system optimization.<br><br>I have dedicated my recent years to intensive study and practical application of software development concepts. I've completed comprehensive coursework in Algorithms and Data Structures, mastering the fundamentals across multiple languages like C, C++, Python, and Java. I have also earned certifications from Oracle in Java Foundations, solidifying my grasp of Object-Oriented Programming.<br><br>My background in hardware gives me a unique perspective on the intersection of physical systems and software performance. I'm used to diagnosing complex issues, managing client expectations, and delivering reliable technical solutions.<br><br>In the last two years, I've focused on these technologies: Java, Python, SQL, Algorithms, Git, Data Analysis, and Hardware Architecture.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisenunes) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![alt text](./luis-bottom.svg)
